@@ -22,5 +22,6 @@ export function Message(props) {
             </div>
     
         </div>
+
       );
 }

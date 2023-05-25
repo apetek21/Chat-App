@@ -76,7 +76,7 @@ export function ChatPage() {
   return (
     <div>
       <div className="title-content">
-        <h1>welcome <p>{context.username}</p> to portal of glory </h1>
+        <h1>welcome <p>{context.username}</p> to the portal of glory</h1>
         <button
           className="sign-out-button"
           type="button"

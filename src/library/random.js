@@ -1,5 +1,5 @@
-const adjectives = ['Arnold', 'Jackie', 'Steven'];
-const nouns = ['Chan', 'Schwarzenegger', 'Segal'];
+const adjectives = ['Arnold', 'Jackie', 'Steven', 'Sylvester', 'Chuck', 'Jean-Claude', 'Bruce', 'Dolph'];
+const nouns = ['Chan', 'Schwarzenegger', 'Segal', 'Stallone', 'Norris', 'Van Damme', 'Willis', 'Lundgren'];
 
 export function getRandomName() {
     const adjectiveIndex = Math.floor(Math.random() * adjectives.length);
